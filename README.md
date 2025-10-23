@@ -49,3 +49,7 @@ predicted_price = scaler.inverse_transform(predicted_scaled)
 
 print("Predicted next close price:", predicted_price[0][0])
 ```
+
+## 📝 MLflow
+
+![mlflow](MLflow.png)
